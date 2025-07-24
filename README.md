@@ -1,5 +1,5 @@
 # GHAP: Gaussian Herding Across Pens
-An official implementation of "Gaussian Herding Across Pens: an optimal transport perspective on global gaussian reduction for 3DGS"
+An official implementation of ["Gaussian Herding Across Pens: an optimal transport perspective on global gaussian reduction for 3DGS"](https://arxiv.org/abs/2506.09534)
 
 
 
@@ -31,10 +31,12 @@ bash run_from_pointcloud.sh <scene_name> <source_path> [<ckp_path>] [<sampling_r
 ```
 
 ## BibTeX
-If our work is helpful to you, please consider citing [it](https://arxiv.org/abs/2506.09534),
+If our work is helpful to you, please consider citing it,
+```
 @article{wang2025gaussian,
   title={Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS},
   author={Wang, Tao and Li, Mengyu and Zeng, Geduo and Meng, Cheng and Zhang, Qiong},
   journal={arXiv preprint arXiv:2506.09534},
   year={2025}
 }
+```
