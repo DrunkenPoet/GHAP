@@ -5,10 +5,10 @@ An official implementation of ["Gaussian Herding Across Pens: an optimal transpo
 
 
 ## Setup
-#### Local Setup
 The codebase is based on [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
 
 The used datasets, MipNeRF360 and Tank & Temple, are hosted by the paper authors [here](https://jonbarron.info/mipnerf360/).
+
 note: we modified the "arguments" and "scene" packages to adapt to our scenario.
 
 
